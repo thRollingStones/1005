@@ -1,0 +1,45 @@
+https://www-ens.iro.umontreal.ca/~chenyiti/ift1005/devoir1/recette.xml
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:str="http://xsltsl.org/string" version="1.1">
+
+<xsl:output method="html"/>
+
+<!--  patron principal -->
+
+<xsl:template match="/recette">
+<html>
+<head>
+    <link rel="stylesheet" href="recette.css"/>
+</head>
+<body>
+        <h1><xsl:value-of select="nom"/></h1>
+        <h2>Portions: <xsl:value-of select="portions"/></h2>
+        <h2>difficulte: <xsl:value-of select="difficulte"/></h2>
+        <h2>temps: <xsl:value-of select="temps"/></h2>
+
+        <xsl:for-each select="partie">
+            <div class="partie">
+            <h3><xsl:value-of select="nom"/></h3>
+
+            <ol>
+            <xsl:for-each select="ing">
+                <li><xsl:value-of select="q"/>
+                <xsl:value-of select="q/@unit"/>
+                <xsl:value-of select="item"/></li>
+            </xsl:for-each>
+            </ol>
+            <ul>
+            <xsl:for-each select="etape">
+                <li><xsl:value-of select="."/></li>
+            </xsl:for-each>
+            </ul>
+
+            </div>
+        </xsl:for-each>
+</body>
+</html>
+
+
+</xsl:template>
+
+
+</xsl:stylesheet>
