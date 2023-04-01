@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recette.xsl"?>
+
+<recette>
+  <nom>Rôti de palette de boeuf cuit sous vide</nom>
+
+  <image>https://i.imgur.com/HtCujMI.jpeg</image>
+
+<informations>
+    <preparation etape="Préparation">10 min</preparation>
+    <preparation etape="Cuisson">24 h 15 min</preparation>
+    <portions><nombre>6</nombre></portions>
+</informations>
+
+<partie>
+  <nom>Introduire</nom>
+     <etape>Grâce au cuiseur de précision sous vide, l'économique rôti de palette de boeuf se dévoile sous un tout nouveau jour.
+            On le cuisine souvent en braisé, mais ici, il se transforme en steak juteux, fondant et ultra savoureux, dont la texture rappelle celle de la côte de boeuf.
+            En le cuisant pendant 24 heures avec quelques aromates et en le saisissant rapidement à la poêle,
+            on obtient une cuisson médium saignante digne des meilleurs steakhouses. Ça vaut le coup... à moindre coût.
+     </etape>
+</partie>
+
+<partie>
+  <nom>Ingrédients</nom>
+  <ingredient type="quantitatif">
+    <nom>Rôti de palette de boeuf désossé</nom>
+    <quantite unite="metrique"><nombre>1</nombre> kg</quantite>
+  </ingredient>
+  <ingredient type="quantitatif">
+    <nom>Sel</nom>
+    <quantite unite="metrique"><nombre>5</nombre> ml</quantite>
+  </ingredient>
+  <ingredient type="quantitatif">
+    <nom>Poivre moulu</nom>
+    <quantite unite="metrique"><nombre>2.5</nombre> ml</quantite>
+  </ingredient>
+  <ingredient type="quantitatif">
+    <nom>Huile d’olive</nom>
+    <quantite unite="metrique"><nombre>30</nombre> ml</quantite>
+  </ingredient>
+  <ingredient type="quantitatif">
+    <nom>Thym</nom>
+    <quantite unite="metrique"><nombre>5</nombre> branches</quantite>
+  </ingredient>
+  <ingredient type="quantitatif">
+    <nom>Ail</nom>
+    <quantite unite="metrique"><nombre>1</nombre> gousse</quantite>
+  </ingredient>
+  <ingredient type="quantitatif">
+    <nom>Laurier</nom>
+    <quantite unite="metrique"><nombre>1</nombre> feuille</quantite>
+  </ingredient>
+  <ingredient type="quantitatif">
+    <nom>Vin rouge</nom>
+    <quantite unite="metrique"><nombre>125</nombre> ml</quantite>
+  </ingredient>
+  <ingredient type="quantitatif">
+    <nom>Bouillon de boeuf</nom>
+    <quantite unite="metrique"><nombre>125</nombre> ml</quantite>
+  </ingredient>
+  <ingredient type="quantitatif">
+    <nom>Beurre</nom>
+    <quantite unite="metrique"><nombre>30</nombre> ml</quantite>
+  </ingredient>
+</partie>
+
+<partie>
+  <nom>Préparation</nom>
+    <etape>
+          Fixer le cuiseur de précision à la paroi d’un récipient de cuisson.
+          Ajouter de l’eau jusqu’à ce que le niveau se situe entre le minimum et le maximum requis.
+          Régler la température à 55 °C (131 °F). Régler le temps de cuisson à 24 heures. Préchauffer l’eau pendant la préparation de la viande.
+    </etape>
+    <etape>
+          Sur un plan de travail, parsemer la viande du sel et du poivre de chaque côté.
+          La placer dans un sac d’emballage sous vide ou un grand sac à congélation à fermeture à glissière.
+          Ajouter la moitié de l’huile (15 ml/1 c. à soupe), le thym, l’ail et le laurier.
+          Retirer l’air (voir l’encadré ci-contre). Immerger le rôti dans l’eau. Commencer la cuisson (24 heures).
+    </etape>
+    <etape>
+          Retirer le sac de cuisson de l’eau prudemment avec des pinces ou des mitaines de four.
+          Retirer le rôti du sac et réserver sur une assiette (voir note).
+          Filtrer le jus de cuisson et réserver. Composter les aromates.
+    </etape>
+    <etape>
+          Dans une grande poêle en fonte à feu élevé, chauffer le reste de l’huile jusqu’à ce qu’elle commence à fumer.
+          Y dorer le rôti 2 minutes de chaque côté. Déposer la viande sur l’assiette. Couvrir de papier d’aluminium et laisser reposer le temps de faire la sauce.
+          Retirer l’huile de cuisson de la poêle en la versant dans un bol. Composter le gras de cuisson une fois refroidi.
+    </etape>
+    <etape>
+          Verser le jus de cuisson réservé dans la poêle. Porter à ébullition et laisser réduire presque à sec, jusqu’à ce que les sucs caramélisent au fond de la poêle.
+          Déglacer avec le vin. Ajouter le bouillon et laisser réduire de moitié.
+          Filtrer de nouveau, si désiré. Ajouter le beurre en remuant jusqu’à ce qu’il soit fondu. Rectifier l’assaisonnement.
+    </etape>
+    <etape>
+          Sur un plan de travail, trancher la viande. Parsemer de fleur de sel. Servir la viande et accompagner de la sauce.
+    </etape>
+</partie>
+
+<partie>
+  <nom>Commentaire</nom>
+    <etape>
+          cuisson excellente ! juste à point ! et facile en plus ,quoi de mieux...
+    </etape>
+    <etape>
+          Parfait sur toute la ligne. Tout simplement délicieux et bien réussi.
+    </etape>
+    <etape>
+          Absolument délicieux !! Quel délice !! Merci :-)
+    </etape>
+    <etape>
+          Excellente recette et tellement simple.
+    </etape>
+    <etape>
+          Délicieux, cuisson absolument parfaite! Fait sonner le détecteur de fumée à tout coup, mais un coup de marteau et le tour est joué.
+    </etape>
+</partie>
+</recette>
